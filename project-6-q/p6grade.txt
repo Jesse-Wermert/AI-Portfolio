@@ -1,0 +1,8 @@
+/20 Q learning
+/20 Decay
+30/30 New Environment 
+15/30 Analysis/Results
+
+Total: 85
+
+Notes: updated to reflect git pull
